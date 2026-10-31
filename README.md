@@ -2,7 +2,7 @@
 
 Companion repository for the Dev.to article: [How to Build a Reusable
 Modal Component in React with Tailwind
-CSS](https://dev.to/ekosarya/how-to-build-a-reusable-modal-component-in-react-with-tailwind-css-32m8)
+CSS](https://dev.to/ekosarya/how-to-build-a-reusable-modal-component-in-react-with-tailwind-css-3a27)
 
 A lightweight, accessible, and highly reusable Modal component built
 from scratch using React, Tailwind CSS v4, and Vite. Perfect for
