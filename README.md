@@ -36,14 +36,6 @@ dependencies minimal.
 ```text
 src
 ├── App.jsx
-├── assets
-│   ├── confirmationModal.jpg
-│   ├── editProfileModal.jpg
-│   ├── hero.png
-│   ├── infoModal.jpg
-│   ├── modalTriggers.jpg
-│   ├── react.svg
-│   └── vite.svg
 ├── components
 │   ├── common
 │   │   └── Modal.jsx
